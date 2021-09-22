@@ -1,0 +1,8 @@
+{
+  "name": "wapi-client",
+  "version": "0.1.0",
+  "main": "index.ts",
+  "repository": "https://github.com/ystv/wapi-client",
+  "license": "MIT",
+  "dependencies": {}
+}
